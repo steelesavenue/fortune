@@ -1,0 +1,2 @@
+# fortune
+Fortune GitHub Resources
